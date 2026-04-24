@@ -1,0 +1,48 @@
+# Dados grandes (disponíveis na Release v1.0)
+DistanceMatrix.csv
+similarity_matrices_CATH.xlsx
+similarity_matrices_SCOPe.xlsx
+aminoacidos_maisfrequentes.xlsx
+13jan-cath-domain-list.txt
+dir.des.scope.2.08-stable.txt
+best_resolutionsCATH.txt
+best_resolutionsSCOPe.txt
+
+# PDB structures (usar release para esses)
+representativeSites/
+representativeSites.zip
+
+# PDFs (copyright)
+artigos usados na dissertação/
+*.pdf
+
+# Dados intermediários regeneráveis
+resultado.txt
+resultado2.txt
+resultado3.txt
+resultadoMaiorQue07.txt
+
+# Paper (sobe só quando publicado)
+paper/
+
+# Configurações locais
+.claude/
+MMalign.code-workspace
+GITHUB_PLAN.md
+
+# Arquivo original renomeado para check_distance_one.py
+conta_dist=1.py
+
+# Outputs gerados (em results/analysis/ após rodar os scripts)
+efhand_stage1_report.txt
+efhand_stage2_fate.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Windows
+Thumbs.db
+desktop.ini

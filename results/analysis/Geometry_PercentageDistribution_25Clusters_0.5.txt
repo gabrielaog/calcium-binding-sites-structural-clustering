@@ -1,0 +1,460 @@
+----------------------------------------------------------------------
+Percentage Distribution of Coordination Geometries  Cluster 1:
+irregular (n/a): 33.28%
+pentagonal bipyramid (distorted): 10.87%
+n/a: 7.36%
+octahedron (regular): 5.35%
+square pyramid with a vacancy (equatorial) (distorted): 3.68%
+trigonal plane with a vacancy (regular): 3.18%
+octahedron (distorted): 3.18%
+trigonal prism, square-face monocapped (distorted): 3.01%
+pentagonal bipyramid with a vacancy (equatorial) (distorted): 2.51%
+square antiprism (distorted): 2.51%
+pentagonal bipyramid with a vacancy (equatorial) (regular): 2.01%
+square antiprism with a vacancy (distorted): 1.84%
+octahedron, face monocapped (distorted): 1.84%
+pentagonal bipyramid (regular): 1.84%
+square pyramid (regular): 1.84%
+pentagonal bipyramid with a vacancy (axial) (distorted): 1.67%
+square plane with a vacancy (regular): 1.34%
+tetrahedron with a vacancy (regular): 1.17%
+octahedron, face monocapped with a vacancy (non-capped face) (distorted): 1.17%
+square pyramid (distorted): 1.17%
+square plane with a vacancy (distorted): 1.00%
+pentagonal bipyramid with a vacancy (axial) (regular): 1.00%
+trigonal prism, square-face bicapped (distorted): 0.84%
+trigonal prism, square-face monocapped with a vacancy (non-capped edge) (distorted): 0.84%
+trigonal bipyramid with a vacancy (equatorial) (distorted): 0.67%
+linear (regular): 0.67%
+square plane (regular): 0.67%
+square pyramid with a vacancy (equatorial) (regular): 0.50%
+tetrahedron with a vacancy (distorted): 0.50%
+trigonal prism (distorted): 0.33%
+trigonal prism, square-face monocapped with a vacancy (capped face) (distorted): 0.33%
+trigonal prism with a vacancy (regular): 0.33%
+trigonal plane (regular): 0.33%
+hexagonal bipyramid with a vacancy (equatorial) (distorted): 0.33%
+trigonal bipyramid with a vacancy (axial) (distorted): 0.17%
+trigonal prism with a vacancy (distorted): 0.17%
+octahedron, face monocapped with a vacancy (capped face) (distorted): 0.17%
+cube (distorted): 0.17%
+cube with a vacancy (distorted): 0.17%
+------------------------------
+Percentage Distribution of Coordination Geometries  Cluster 2:
+square antiprism (distorted): 21.43%
+n/a: 14.29%
+square antiprism with a vacancy (distorted): 14.29%
+pentagonal bipyramid with a vacancy (axial) (distorted): 7.14%
+octahedron, face monocapped (distorted): 7.14%
+trigonal plane with a vacancy (regular): 7.14%
+pentagonal bipyramid (regular): 7.14%
+square pyramid with a vacancy (equatorial) (distorted): 7.14%
+trigonal prism, square-face bicapped (distorted): 7.14%
+pentagonal bipyramid (distorted): 7.14%
+----------------------------------
+Percentage Distribution of Coordination Geometries  Cluster 3:
+irregular (n/a): 42.02%
+pentagonal bipyramid with a vacancy (axial) (distorted): 13.83%
+n/a: 6.38%
+pentagonal bipyramid (distorted): 5.85%
+trigonal plane with a vacancy (regular): 4.26%
+pentagonal bipyramid with a vacancy (equatorial) (distorted): 3.19%
+octahedron (distorted): 3.19%
+square pyramid with a vacancy (equatorial) (distorted): 3.19%
+trigonal prism, square-face monocapped with a vacancy (non-capped edge) (distorted): 2.66%
+pentagonal bipyramid (regular): 2.13%
+octahedron (regular): 1.60%
+octahedron, face monocapped (distorted): 1.60%
+octahedron, face monocapped with a vacancy (capped face) (distorted): 1.06%
+octahedron, face monocapped with a vacancy (non-capped face) (distorted): 1.06%
+trigonal plane (regular): 1.06%
+trigonal bipyramid with a vacancy (equatorial) (distorted): 0.53%
+trigonal prism, square-face monocapped (distorted): 0.53%
+pentagonal bipyramid with a vacancy (equatorial) (regular): 0.53%
+trigonal prism with a vacancy (distorted): 0.53%
+trigonal bipyramid with a vacancy (axial) (distorted): 0.53%
+square pyramid (regular): 0.53%
+linear (regular): 0.53%
+square antiprism (distorted): 0.53%
+square antiprism with a vacancy (distorted): 0.53%
+trigonal prism, square-face bicapped (distorted): 0.53%
+tetrahedron with a vacancy (distorted): 0.53%
+trigonal prism (regular): 0.53%
+trigonal prism, square-face monocapped with a vacancy (capped face) (distorted): 0.53%
+-------------------------------------
+Percentage Distribution of Coordination Geometries  Cluster 4:
+irregular (n/a): 31.86%
+n/a: 10.00%
+pentagonal bipyramid (distorted): 6.78%
+octahedron (regular): 4.75%
+trigonal plane with a vacancy (regular): 4.75%
+pentagonal bipyramid with a vacancy (axial) (distorted): 4.58%
+pentagonal bipyramid with a vacancy (equatorial) (distorted): 3.73%
+square pyramid with a vacancy (equatorial) (distorted): 3.56%
+octahedron (distorted): 2.88%
+pentagonal bipyramid (regular): 2.54%
+square pyramid (regular): 2.37%
+square antiprism (distorted): 2.37%
+trigonal bipyramid with a vacancy (axial) (distorted): 2.03%
+trigonal prism, square-face monocapped (distorted): 1.86%
+octahedron, face monocapped (distorted): 1.36%
+square antiprism with a vacancy (distorted): 1.19%
+trigonal prism, square-face monocapped with a vacancy (non-capped edge) (distorted): 1.19%
+trigonal prism, square-face monocapped with a vacancy (capped face) (distorted): 1.02%
+square plane with a vacancy (regular): 1.02%
+square pyramid (distorted): 1.02%
+pentagonal bipyramid with a vacancy (equatorial) (regular): 1.02%
+square pyramid with a vacancy (equatorial) (regular): 1.02%
+square plane (distorted): 0.85%
+trigonal prism, square-face bicapped (distorted): 0.68%
+trigonal bipyramid with a vacancy (equatorial) (distorted): 0.68%
+tetrahedron with a vacancy (regular): 0.68%
+tetrahedron with a vacancy (distorted): 0.51%
+hexagonal bipyramid with a vacancy (equatorial) (distorted): 0.51%
+pentagonal bipyramid with a vacancy (axial) (regular): 0.34%
+trigonal prism with a vacancy (distorted): 0.34%
+trigonal prism with a vacancy (regular): 0.34%
+tetrahedron (distorted): 0.34%
+octahedron, face monocapped with a vacancy (non-capped face) (distorted): 0.34%
+square antiprism with a vacancy (regular): 0.17%
+trigonal prism (distorted): 0.17%
+octahedron, face monocapped with a vacancy (non-capped face) (regular): 0.17%
+octahedron, face monocapped with a vacancy (capped face) (distorted): 0.17%
+trigonal bipyramid (regular): 0.17%
+square plane with a vacancy (distorted): 0.17%
+linear (regular): 0.17%
+square antiprism (regular): 0.17%
+square plane (regular): 0.17%
+---------------------------
+Percentage Distribution of Coordination Geometries  Cluster 5:
+irregular (n/a): 27.50%
+pentagonal bipyramid (distorted): 15.00%
+octahedron (regular): 10.00%
+pentagonal bipyramid with a vacancy (equatorial) (distorted): 5.00%
+n/a: 5.00%
+square pyramid with a vacancy (equatorial) (regular): 5.00%
+trigonal prism, square-face bicapped (distorted): 5.00%
+pentagonal bipyramid (regular): 2.50%
+square antiprism with a vacancy (distorted): 2.50%
+square plane with a vacancy (regular): 2.50%
+octahedron, face monocapped with a vacancy (capped face) (distorted): 2.50%
+square pyramid with a vacancy (equatorial) (distorted): 2.50%
+trigonal plane with a vacancy (regular): 2.50%
+trigonal prism, square-face monocapped (distorted): 2.50%
+pentagonal bipyramid with a vacancy (axial) (regular): 2.50%
+square antiprism (distorted): 2.50%
+octahedron (distorted): 2.50%
+tetrahedron with a vacancy (distorted): 2.50%
+----------------------------
+Percentage Distribution of Coordination Geometries  Cluster 6:
+irregular (n/a): 26.47%
+pentagonal bipyramid (distorted): 11.76%
+pentagonal bipyramid with a vacancy (axial) (distorted): 8.82%
+trigonal prism, square-face bicapped (distorted): 8.82%
+trigonal plane with a vacancy (regular): 5.88%
+square pyramid (regular): 5.88%
+pentagonal bipyramid with a vacancy (equatorial) (distorted): 5.88%
+octahedron (regular): 5.88%
+square antiprism with a vacancy (distorted): 2.94%
+square pyramid with a vacancy (equatorial) (distorted): 2.94%
+tetrahedron with a vacancy (distorted): 2.94%
+tetrahedron with a vacancy (regular): 2.94%
+hexagonal bipyramid (distorted): 2.94%
+octahedron, face monocapped with a vacancy (non-capped face) (distorted): 2.94%
+octahedron (distorted): 2.94%
+--------------------------
+Percentage Distribution of Coordination Geometries  Cluster 7:
+irregular (n/a): 32.14%
+square pyramid with a vacancy (equatorial) (distorted): 14.29%
+square pyramid (regular): 7.14%
+square antiprism with a vacancy (distorted): 7.14%
+trigonal plane (regular): 7.14%
+square pyramid (distorted): 3.57%
+trigonal prism with a vacancy (distorted): 3.57%
+pentagonal bipyramid (regular): 3.57%
+octahedron (regular): 3.57%
+square plane with a vacancy (regular): 3.57%
+square pyramid with a vacancy (equatorial) (regular): 3.57%
+pentagonal bipyramid (distorted): 3.57%
+n/a: 3.57%
+trigonal bipyramid with a vacancy (axial) (regular): 3.57%
+-----------------------------
+Percentage Distribution of Coordination Geometries  Cluster 8:
+irregular (n/a): 33.33%
+pentagonal bipyramid (distorted): 9.09%
+octahedron (regular): 9.09%
+n/a: 6.06%
+square plane with a vacancy (distorted): 6.06%
+octahedron, face monocapped (distorted): 6.06%
+trigonal plane with a vacancy (regular): 3.03%
+pentagonal bipyramid with a vacancy (equatorial) (distorted): 3.03%
+tetrahedron with a vacancy (distorted): 3.03%
+trigonal prism (distorted): 3.03%
+trigonal prism, square-face bicapped (distorted): 3.03%
+square pyramid with a vacancy (equatorial) (distorted): 3.03%
+trigonal prism, square-face monocapped with a vacancy (non-capped edge) (distorted): 3.03%
+linear (regular): 3.03%
+square pyramid (regular): 3.03%
+octahedron (distorted): 3.03%
+-------------------------------------
+Percentage Distribution of Coordination Geometries  Cluster 9:
+irregular (n/a): 33.33%
+pentagonal bipyramid (distorted): 7.62%
+octahedron (regular): 7.62%
+pentagonal bipyramid (regular): 6.67%
+trigonal plane with a vacancy (regular): 5.71%
+octahedron (distorted): 4.76%
+pentagonal bipyramid with a vacancy (equatorial) (distorted): 3.81%
+octahedron, face monocapped (distorted): 3.81%
+n/a: 2.86%
+trigonal bipyramid with a vacancy (axial) (distorted): 2.86%
+square pyramid with a vacancy (equatorial) (distorted): 2.86%
+square pyramid (distorted): 1.90%
+pentagonal bipyramid with a vacancy (equatorial) (regular): 1.90%
+trigonal prism, square-face monocapped with a vacancy (capped face) (distorted): 1.90%
+octahedron, face monocapped with a vacancy (non-capped face) (distorted): 1.90%
+tetrahedron with a vacancy (distorted): 1.90%
+square plane with a vacancy (distorted): 0.95%
+trigonal plane (regular): 0.95%
+trigonal bipyramid with a vacancy (axial) (regular): 0.95%
+trigonal prism, square-face monocapped (distorted): 0.95%
+trigonal bipyramid with a vacancy (equatorial) (distorted): 0.95%
+pentagonal bipyramid with a vacancy (axial) (distorted): 0.95%
+square antiprism with a vacancy (distorted): 0.95%
+trigonal prism, square-face monocapped with a vacancy (non-capped edge) (distorted): 0.95%
+trigonal prism, square-face bicapped (distorted): 0.95%
+-------------------------
+Percentage Distribution of Coordination Geometries  Cluster 10:
+irregular (n/a): 59.09%
+octahedron, face monocapped with a vacancy (non-capped face) (distorted): 9.09%
+square pyramid with a vacancy (equatorial) (distorted): 4.55%
+octahedron (regular): 4.55%
+pentagonal bipyramid with a vacancy (equatorial) (regular): 4.55%
+square plane with a vacancy (regular): 4.55%
+trigonal prism, square-face bicapped (distorted): 4.55%
+tetrahedron with a vacancy (distorted): 4.55%
+pentagonal bipyramid with a vacancy (equatorial) (distorted): 4.55%
+-------------------------
+Percentage Distribution of Coordination Geometries  Cluster 11:
+irregular (n/a): 33.00%
+n/a: 9.36%
+square pyramid with a vacancy (equatorial) (distorted): 6.40%
+trigonal plane with a vacancy (regular): 6.40%
+pentagonal bipyramid (distorted): 4.43%
+square antiprism (distorted): 3.94%
+trigonal prism, square-face bicapped (distorted): 2.96%
+square pyramid (regular): 2.46%
+pentagonal bipyramid with a vacancy (equatorial) (distorted): 2.46%
+octahedron (regular): 2.46%
+octahedron (distorted): 2.46%
+pentagonal bipyramid (regular): 2.46%
+octahedron, face monocapped (distorted): 1.97%
+pentagonal bipyramid with a vacancy (axial) (distorted): 1.97%
+square pyramid (distorted): 1.97%
+trigonal bipyramid with a vacancy (equatorial) (distorted): 1.97%
+linear (regular): 1.48%
+square antiprism with a vacancy (distorted): 1.48%
+trigonal prism, square-face monocapped (distorted): 1.48%
+pentagonal bipyramid with a vacancy (equatorial) (regular): 0.99%
+trigonal bipyramid with a vacancy (axial) (distorted): 0.99%
+tetrahedron with a vacancy (regular): 0.99%
+square antiprism with a vacancy (regular): 0.49%
+square plane (regular): 0.49%
+tetrahedron with a vacancy (distorted): 0.49%
+tetrahedron (distorted): 0.49%
+square pyramid with a vacancy (equatorial) (regular): 0.49%
+square plane with a vacancy (regular): 0.49%
+trigonal prism with a vacancy (regular): 0.49%
+trigonal prism, square-face monocapped with a vacancy (non-capped edge) (distorted): 0.49%
+square plane (distorted): 0.49%
+octahedron, face monocapped with a vacancy (non-capped face) (regular): 0.49%
+pentagonal bipyramid with a vacancy (axial) (regular): 0.49%
+trigonal prism, square-face monocapped with a vacancy (capped face) (distorted): 0.49%
+----------------------
+Percentage Distribution of Coordination Geometries  Cluster 12:
+irregular (n/a): 36.36%
+pentagonal bipyramid (distorted): 13.64%
+square pyramid with a vacancy (equatorial) (distorted): 9.09%
+square plane with a vacancy (regular): 9.09%
+octahedron (distorted): 4.55%
+square plane (distorted): 4.55%
+trigonal prism, square-face monocapped (distorted): 4.55%
+octahedron (regular): 4.55%
+n/a: 4.55%
+square pyramid with a vacancy (equatorial) (regular): 4.55%
+trigonal bipyramid (regular): 4.55%
+----------------------------
+Percentage Distribution of Coordination Geometries  Cluster 13:
+irregular (n/a): 38.10%
+pentagonal bipyramid (distorted): 14.29%
+n/a: 4.76%
+octahedron (distorted): 4.76%
+octahedron, face monocapped (regular): 4.76%
+square pyramid (distorted): 4.76%
+tetrahedron with a vacancy (regular): 4.76%
+trigonal prism, square-face monocapped (distorted): 4.76%
+tetrahedron (distorted): 4.76%
+square pyramid (regular): 4.76%
+trigonal plane (distorted): 4.76%
+octahedron (regular): 4.76%
+PS C:\Users\Gabriela\OneDrive\Documentos\IC\calcio\servidor\MMalign> python3 .\APIMetalPDB.py
+PS C:\Users\Gabriela\OneDrive\Documentos\IC\calcio\servidor\MMalign> python3 .\porcentagemDeGeometrias.py
+Percentage Distribution of Coordination Geometries  Cluster 14:
+irregular (n/a): 50.00%
+pentagonal bipyramid with a vacancy (equatorial) (distorted): 30.00%
+n/a: 10.00%
+octahedron (distorted): 10.00%
+------------------------------------
+Percentage Distribution of Coordination Geometries  Cluster 15:
+irregular (n/a): 35.76%
+n/a: 8.61%
+octahedron (distorted): 7.28%
+pentagonal bipyramid (distorted): 6.62%
+square pyramid with a vacancy (equatorial) (distorted): 5.96%
+octahedron (regular): 3.31%
+pentagonal bipyramid with a vacancy (equatorial) (distorted): 2.65%
+trigonal prism, square-face bicapped (distorted): 2.65%
+trigonal prism, square-face monocapped (distorted): 2.65%
+octahedron, face monocapped (distorted): 1.99%
+square plane with a vacancy (regular): 1.99%
+pentagonal bipyramid (regular): 1.99%
+octahedron, face monocapped with a vacancy (non-capped face) (distorted): 1.32%
+square plane (regular): 1.32%
+tetrahedron (distorted): 1.32%
+hexagonal bipyramid (distorted): 1.32%
+square pyramid (distorted): 1.32%
+square pyramid (regular): 1.32%
+tetrahedron (regular): 1.32%
+square antiprism with a vacancy (distorted): 1.32%
+pentagonal bipyramid with a vacancy (equatorial) (regular): 1.32%
+hexagonal bipyramid with a vacancy (equatorial) (distorted): 0.66%
+trigonal prism, square-face monocapped with a vacancy (non-capped edge) (distorted): 0.66%
+tetrahedron with a vacancy (distorted): 0.66%
+trigonal prism (distorted): 0.66%
+pentagonal bipyramid with a vacancy (axial) (distorted): 0.66%
+trigonal prism, square-face monocapped with a vacancy (capped face) (distorted): 0.66%
+trigonal bipyramid (regular): 0.66%
+square antiprism (distorted): 0.66%
+tetrahedron with a vacancy (regular): 0.66%
+square plane (distorted): 0.66%
+---------------------------------
+Percentage Distribution of Coordination Geometries  Cluster 16:
+irregular (n/a): 31.58%
+pentagonal bipyramid with a vacancy (equatorial) (distorted): 15.79%
+pentagonal bipyramid with a vacancy (equatorial) (regular): 10.53%
+octahedron (regular): 5.26%
+square plane with a vacancy (regular): 5.26%
+square antiprism (distorted): 5.26%
+pentagonal bipyramid (regular): 5.26%
+trigonal prism (distorted): 5.26%
+octahedron (distorted): 5.26%
+octahedron, face monocapped with a vacancy (non-capped face) (distorted): 5.26%
+octahedron, face monocapped (distorted): 5.26%
+---------------------------------------
+Percentage Distribution of Coordination Geometries  Cluster 17:
+n/a: 27.78%
+irregular (n/a): 22.22%
+pentagonal bipyramid (distorted): 11.11%
+pentagonal bipyramid with a vacancy (equatorial) (distorted): 5.56%
+trigonal plane with a vacancy (regular): 5.56%
+square pyramid (regular): 5.56%
+square pyramid with a vacancy (equatorial) (distorted): 5.56%
+octahedron, face monocapped (distorted): 5.56%
+octahedron (distorted): 5.56%
+hexagonal bipyramid with a vacancy (equatorial) (distorted): 5.56%
+------------------------------
+Percentage Distribution of Coordination Geometries  Cluster 18:
+irregular (n/a): 43.33%
+n/a: 26.67%
+square pyramid with a vacancy (equatorial) (distorted): 6.67%
+pentagonal bipyramid with a vacancy (equatorial) (regular): 3.33%
+pentagonal bipyramid (distorted): 3.33%
+square antiprism with a vacancy (distorted): 3.33%
+trigonal bipyramid with a vacancy (axial) (distorted): 3.33%
+trigonal prism, square-face monocapped (distorted): 3.33%
+trigonal prism, square-face monocapped with a vacancy (non-capped edge) (distorted): 3.33%
+hexagonal bipyramid with a vacancy (equatorial) (distorted): 3.33%
+------------------------------------
+Percentage Distribution of Coordination Geometries  Cluster 19:
+irregular (n/a): 33.33%
+square pyramid (regular): 16.67%
+n/a: 11.11%
+octahedron (distorted): 11.11%
+square plane with a vacancy (regular): 11.11%
+trigonal plane with a vacancy (regular): 5.56%
+pentagonal bipyramid (distorted): 5.56%
+pentagonal bipyramid with a vacancy (axial) (regular): 5.56%
+---------------------------
+Percentage Distribution of Coordination Geometries  Cluster 20:
+irregular (n/a): 53.85%
+octahedron (regular): 15.38%
+trigonal plane with a vacancy (regular): 7.69%
+square pyramid with a vacancy (equatorial) (distorted): 7.69%
+pentagonal bipyramid with a vacancy (equatorial) (distorted): 7.69%
+pentagonal bipyramid (distorted): 7.69%
+--------------------------------
+Percentage Distribution of Coordination Geometries  Cluster 21:
+irregular (n/a): 27.78%
+square pyramid with a vacancy (equatorial) (distorted): 11.11%
+pentagonal bipyramid with a vacancy (equatorial) (distorted): 8.33%
+n/a: 8.33%
+square pyramid (regular): 5.56%
+trigonal prism, square-face monocapped with a vacancy (non-capped edge) (distorted): 5.56%
+trigonal prism, square-face monocapped (distorted): 2.78%
+square plane with a vacancy (distorted): 2.78%
+linear (regular): 2.78%
+pentagonal bipyramid (distorted): 2.78%
+square antiprism with a vacancy (distorted): 2.78%
+square plane (distorted): 2.78%
+pentagonal bipyramid (regular): 2.78%
+square pyramid (distorted): 2.78%
+trigonal plane with a vacancy (regular): 2.78%
+octahedron, face monocapped (distorted): 2.78%
+trigonal plane (regular): 2.78%
+octahedron (regular): 2.78%
+----------------------------
+Percentage Distribution of Coordination Geometries  Cluster 22:
+irregular (n/a): 38.46%
+square pyramid with a vacancy (equatorial) (distorted): 23.08%
+n/a: 7.69%
+square pyramid (distorted): 7.69%
+octahedron (distorted): 7.69%
+pentagonal bipyramid with a vacancy (equatorial) (distorted): 7.69%
+trigonal plane with a vacancy (regular): 7.69%
+----------------------------
+Percentage Distribution of Coordination Geometries  Cluster 23:
+irregular (n/a): 31.82%
+square pyramid with a vacancy (equatorial) (distorted): 13.64%
+pentagonal bipyramid (distorted): 9.09%
+n/a: 9.09%
+octahedron, face monocapped with a vacancy (non-capped face) (distorted): 9.09%
+square pyramid (regular): 9.09%
+octahedron (distorted): 4.55%
+octahedron (regular): 4.55%
+trigonal prism with a vacancy (distorted): 4.55%
+tetrahedron with a vacancy (distorted): 4.55%
+----------------------------
+Percentage Distribution of Coordination Geometries  Cluster 24:
+trigonal plane with a vacancy (regular): 20.00%
+irregular (n/a): 20.00%
+pentagonal bipyramid (distorted): 20.00%
+octahedron, face monocapped with a vacancy (capped face) (distorted): 10.00%
+trigonal prism, square-face monocapped (distorted): 10.00%
+trigonal prism, square-face monocapped with a vacancy (non-capped edge) (distorted): 10.00%
+pentagonal bipyramid with a vacancy (axial) (regular): 10.00%
+--------------------------
+Percentage Distribution of Coordination Geometries  Cluster 25:
+irregular (n/a): 23.08%
+square pyramid with a vacancy (equatorial) (distorted): 11.54%
+trigonal prism, square-face monocapped (distorted): 11.54%
+pentagonal bipyramid with a vacancy (axial) (distorted): 7.69%
+octahedron (distorted): 7.69%
+trigonal prism, square-face monocapped with a vacancy (capped face) (distorted): 7.69%
+n/a: 3.85%
+square pyramid with a vacancy (equatorial) (regular): 3.85%
+tetrahedron with a vacancy (distorted): 3.85%
+trigonal prism, square-face monocapped with a vacancy (non-capped edge) (distorted): 3.85%
+trigonal prism, square-face bicapped (distorted): 3.85%
+trigonal bipyramid (regular): 3.85%
+square pyramid (distorted): 3.85%
+pentagonal bipyramid (distorted): 3.85%

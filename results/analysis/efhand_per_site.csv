@@ -1,0 +1,225 @@
+Cluster,Site,PDB_ID,CATH_superfamily,SCOPe_superfamily_code,Geometry,Coordination_number,is_efhand,efhand_source
+Cluster 1,1ag9_1_B,1ag9,3.40.50.360,c.23.5,square antiprism with a vacancy (distorted),7,False,-
+Cluster 1,2cnh_1_A,2cnh,3.90.190.10,c.45.1,irregular (n/a),3,False,-
+Cluster 1,1f4n_2_A,1f4n,1.10.287.230,a.30.1,pentagonal bipyramid (regular),7,False,-
+Cluster 1,1fz7_4_AE,1fz7,1.10.620.20,a.25.1,pentagonal bipyramid with a vacancy (equatorial) (regular),6,False,-
+Cluster 1,1g8f_7_A,1g8f,3.10.400.10;3.40.50.300;3.40.50.620,c.26.1;b.122.1;c.37.1,,1,False,-
+Cluster 1,1jn9_1_AB,1jn9,3.60.20.30,d.153.1,irregular (n/a),4,False,-
+Cluster 1,1uww_4_A,1uww,2.60.120.260,b.18.1,irregular (n/a),3,False,-
+Cluster 1,2afb_7_B,2afb,3.40.1190.20,c.72.1,,1,False,-
+Cluster 1,2cyy_3_A,2cyy,1.10.10.10;3.30.70.920,d.58.4,square plane (distorted),4,False,-
+Cluster 1,2f1w_2_A,2f1w,2.60.210.10,NA,irregular (n/a),2,False,-
+Cluster 1,2gjv_5_AB,2gjv,3.30.2000.10,d.323.1,irregular (n/a),3,False,-
+Cluster 1,2rld_1_A,2rld,1.20.1440.60,a.29.16,irregular (n/a),7,False,-
+Cluster 1,2w3o_1_B,2w3o,2.60.200.20,NA,square pyramid with a vacancy (equatorial) (distorted),4,False,-
+Cluster 1,2xn6_2_A,2xn6,2.30.39.10;3.30.497.10,NA,,1,False,-
+Cluster 1,2zs0_4_BC,2zs0,1.10.490.10,NA,"trigonal prism, square-face monocapped with a vacancy (non-capped edge) (distorted)",6,False,-
+Cluster 1,3b3d_2_B,3b3d,3.20.20.100,NA,,1,False,-
+Cluster 1,3bs6_2_A,3bs6,2.70.98.90,NA,irregular (n/a),2,False,-
+Cluster 1,3fmg_1_A,3fmg,3.40.50.11130;2.60.120.800,NA,,1,False,-
+Cluster 1,3gv4_4_A,3gv4,3.30.40.10,NA,pentagonal bipyramid with a vacancy (axial) (regular),6,False,-
+Cluster 1,3jru_2_B,3jru,3.40.630.10;3.40.220.10,NA,irregular (n/a),3,False,-
+Cluster 1,3n08_2_A,3n08,3.90.280.10,NA,irregular (n/a),2,False,-
+Cluster 1,3p85_1_A,3p85,3.90.226.10,NA,irregular (n/a),2,False,-
+Cluster 1,3s6f_1_A,3s6f,3.40.630.30,NA,pentagonal bipyramid with a vacancy (axial) (regular),6,False,-
+Cluster 1,3s82_1_A,3s82,3.30.300.10,NA,irregular (n/a),5,False,-
+Cluster 1,4bcu_1_A,4bcu,2.60.120.20,NA,square plane with a vacancy (regular),3,False,-
+Cluster 1,4f53_2_A,4f53,1.25.40.390,NA,irregular (n/a),4,False,-
+Cluster 1,4fgc_3_DE,4fgc,3.30.1130.10,NA,irregular (n/a),5,False,-
+Cluster 1,4i9f_2_B,4i9f,3.40.50.1000;3.30.300.290,NA,,1,False,-
+Cluster 1,4ii3_4_C,4ii3,2.40.30.180;1.10.10.2660;3.50.50.80;3.40.50.12550;3.40.50.720;3.10.290.60,NA,,1,False,-
+Cluster 1,4jbe_4_AB,4jbe,3.40.605.10;3.40.309.10,NA,,1,False,-
+Cluster 1,4jk4_4_B,4jk4,1.10.246.10,NA,irregular (n/a),2,False,-
+Cluster 1,4mbo_1_A,4mbo,2.60.40.1280;2.60.40.1290,NA,irregular (n/a),4,False,-
+Cluster 1,4p3q_1_A,4p3q,3.40.430.10,NA,,1,False,-
+Cluster 1,5a55_5_A,5a55,3.20.20.80;2.70.98.10;2.60.120.260;2.60.40.1180,NA,square pyramid (regular),5,False,-
+Cluster 1,5b66_74_AEFV,5b66,6.10.250.2070,NA,hexagonal bipyramid with a vacancy (equatorial) (distorted),7,False,-
+Cluster 1,5buo_4_A,5buo,1.20.120.770,NA,,1,False,-
+Cluster 1,5cyb_2_A,5cyb,2.40.128.50,NA,irregular (n/a),3,False,-
+Cluster 1,5cyb_3_A,5cyb,2.40.128.50,NA,linear (regular),2,False,-
+Cluster 1,5eto_3_A,5eto,3.30.70.560,NA,irregular (n/a),3,False,-
+Cluster 1,5f47_2_B,5f47,3.40.630.30,NA,irregular (n/a),3,False,-
+Cluster 1,5nq2_1_A,5nq2,3.30.500.10;2.60.40.10,NA,octahedron (regular),6,False,-
+Cluster 1,5uo9_5_AC,5uo9,3.90.1230.10;3.90.340.10;3.90.440.10,NA,irregular (n/a),5,False,-
+Cluster 1,5v4d_1_E,5v4d,3.30.1330.40,NA,square pyramid with a vacancy (equatorial) (distorted),4,False,-
+Cluster 1,6bn2_3_A,6bn2,3.40.47.10,NA,trigonal bipyramid with a vacancy (equatorial) (distorted),4,False,-
+Cluster 1,6e54_1_A,6e54,3.30.1700.10;3.30.230.20,NA,square pyramid with a vacancy (equatorial) (distorted),4,False,-
+Cluster 2,1bob_1_A,1bob,1.10.10.390;3.40.630.30;3.90.360.10,d.108.1,irregular (n/a),2,False,-
+Cluster 2,4k3l_8_B,4k3l,3.10.150.10,NA,,1,False,-
+Cluster 2,1v6c_4_B,1v6c,3.40.50.200;3.50.30.30,c.41.1,trigonal plane with a vacancy (regular),2,False,-
+Cluster 2,2bko_5_A,2bko,1.20.58.220;3.30.70.1450,a.7.12;d.286.1,pentagonal bipyramid (regular),7,True,SCOPe
+Cluster 2,2g0y_2_A,2g0y,2.160.20.80,b.80.8,,1,False,-
+Cluster 2,2pkt_2_A,2pkt,2.30.42.10,NA,irregular (n/a),3,False,-
+Cluster 2,2y5p_5_C,2y5p,2.60.40.4270,NA,irregular (n/a),5,False,-
+Cluster 2,3b3d_4_A,3b3d,3.20.20.100,NA,,1,False,-
+Cluster 2,3bvc_1_B,3bvc,2.60.120.620,NA,,1,False,-
+Cluster 2,3e86_3_A,3e86,1.10.287.70,NA,,1,False,-
+Cluster 2,3goa_3_B,3goa,3.40.47.10,NA,irregular (n/a),5,False,-
+Cluster 2,3mq6_6_CN,3mq6,3.40.91.10,NA,irregular (n/a),3,False,-
+Cluster 2,3qxg_6_B,3qxg,3.40.50.1000;1.10.150.240,NA,irregular (n/a),2,False,-
+Cluster 2,3r4i_6_D,3r4i,6.10.140.960;3.20.20.60,NA,irregular (n/a),2,False,-
+Cluster 2,3rbz_12_B,3rbz,3.30.70.1450;1.20.5.870;3.40.50.720;1.10.287.70,NA,,1,False,-
+Cluster 2,3rmk_14_F,3rmk,1.10.620.20,NA,irregular (n/a),3,False,-
+Cluster 2,3t66_1_A,3t66,3.40.190.10;3.10.105.10,NA,,1,False,-
+Cluster 2,4ecg_4_A,4ecg,1.20.1420.20,NA,trigonal bipyramid with a vacancy (axial) (distorted),4,False,-
+Cluster 2,4lfy_5_AB,4lfy,3.20.20.140,NA,,1,False,-
+Cluster 2,4lfy_1_AB,4lfy,3.20.20.140,NA,trigonal plane with a vacancy (regular),2,False,-
+Cluster 2,4onu_2_A,4onu,2.60.120.10;3.40.630.30,NA,,1,False,-
+Cluster 2,4qel_2_A,4qel,3.40.50.970;3.40.50.1220,NA,square antiprism with a vacancy (distorted),7,False,-
+Cluster 2,4zgf_1_A,4zgf,2.40.128.270,NA,irregular (n/a),3,False,-
+Cluster 2,5abq_4_A,5abq,1.10.420.10;1.10.520.10,NA,trigonal plane with a vacancy (regular),2,False,-
+Cluster 2,5e2f_3_A,5e2f,3.40.710.10,NA,square pyramid with a vacancy (equatorial) (distorted),4,False,-
+Cluster 2,5gmf_4_A,5gmf,3.80.10.10,NA,,1,False,-
+Cluster 2,5hzl_3_B,5hzl,3.80.10.10,NA,,1,False,-
+Cluster 2,5i2n_1_B,5i2n,3.40.190.10,NA,,1,False,-
+Cluster 2,5nsa_1_A,5nsa,2.170.130.30,NA,square pyramid (regular),5,False,-
+Cluster 2,5o7u_3_B,5o7u,2.40.128.190,NA,trigonal plane with a vacancy (regular),2,False,-
+Cluster 2,6eq1_3_B,6eq1,3.10.105.10,NA,,1,False,-
+Cluster 2,6gsz_5_A,6gsz,2.60.120.260;2.60.40.10;1.50.10.10;2.60.420.10,NA,irregular (n/a),3,False,-
+Cluster 2,6hun_1_A,6hun,3.30.70.150;3.20.20.110,NA,,1,False,-
+Cluster 2,7c2g_4_G,7c2g,3.40.20.10,NA,square plane (regular),4,False,-
+Cluster 3,1d0b_2_A,1d0b,3.80.10.10,c.10.2,"octahedron, face monocapped with a vacancy (non-capped face) (distorted)",6,False,-
+Cluster 3,4hhr_9_A,4hhr,1.10.640.10,NA,irregular (n/a),3,False,-
+Cluster 3,1v3w_1_A,1v3w,2.160.10.10,b.81.1,irregular (n/a),4,False,-
+Cluster 3,2bko_1_A,2bko,1.20.58.220;3.30.70.1450,a.7.12;d.286.1,irregular (n/a),4,True,SCOPe
+Cluster 3,2d4c_1_A,2d4c,1.20.1270.60,a.238.1,irregular (n/a),2,False,-
+Cluster 3,2i52_6_C,2i52,3.30.1300.20,d.316.1,"octahedron, face monocapped with a vacancy (non-capped face) (distorted)",6,False,-
+Cluster 3,2id3_7_B,2id3,1.10.357.10;1.10.10.60,a.121.1;a.4.1,square pyramid with a vacancy (equatorial) (distorted),4,False,-
+Cluster 3,2w4y_4_A,2w4y,2.40.160.220,NA,irregular (n/a),3,False,-
+Cluster 3,3b40_4_A,3b40,1.10.287.650;3.20.20.140,NA,irregular (n/a),3,False,-
+Cluster 3,4hoj_2_A,4hoj,3.40.30.10;1.20.1050.10,NA,square plane with a vacancy (regular),3,False,-
+Cluster 3,4jk4_2_A,4jk4,1.10.246.10,NA,tetrahedron with a vacancy (distorted),3,False,-
+Cluster 3,4yis_3_B,4yis,3.10.28.10,NA,irregular (n/a),2,False,-
+Cluster 4,1en7_1_B,1en7,3.40.1800.10;1.10.720.10,a.140.4;d.4.1,irregular (n/a),4,False,-
+Cluster 4,2xts_10_AD,2xts,3.90.420.10;2.60.40.650,NA,irregular (n/a),2,False,-
+Cluster 4,1snn_1_A,1snn,3.90.870.10,d.115.1,square plane with a vacancy (distorted),3,False,-
+Cluster 4,1yax_1_A,1yax,3.30.450.140,NA,,1,False,-
+Cluster 4,1zmr_2_A,1zmr,3.40.50.1260,NA,irregular (n/a),4,False,-
+Cluster 4,2fe1_1_A,2fe1,3.40.50.1010,c.120.1,irregular (n/a),4,False,-
+Cluster 4,2rji_1_A,2rji,1.10.1740.170,NA,,1,False,-
+Cluster 4,7c23_3_AB,7c23,NA,NA,irregular (n/a),4,False,-
+Cluster 4,2yll_2_A,2yll,3.20.20.80;1.20.1270.90,NA,irregular (n/a),5,False,-
+Cluster 4,3cv1_2_A,3cv1,1.20.1220.12;3.20.20.360,NA,square pyramid (distorted),5,False,-
+Cluster 4,3de8_4_B,3de8,1.20.120.10,NA,"octahedron, face monocapped with a vacancy (non-capped face) (distorted)",6,False,-
+Cluster 4,3dzc_1_A,3dzc,3.40.50.2000,NA,pentagonal bipyramid (regular),7,False,-
+Cluster 4,3e11_2_B,3e11,3.30.2010.20,NA,square pyramid with a vacancy (equatorial) (distorted),4,False,-
+Cluster 4,3fmg_2_A,3fmg,2.60.120.800;3.40.50.11130,NA,,1,False,-
+Cluster 4,3g5r_1_A,3g5r,3.50.50.60,NA,irregular (n/a),5,False,-
+Cluster 4,3ibv_1_A,3ibv,1.25.10.10,NA,irregular (n/a),2,False,-
+Cluster 4,3ljk_1_A,3ljk,3.40.50.10490;1.10.1390.10,NA,pentagonal bipyramid with a vacancy (axial) (distorted),6,False,-
+Cluster 4,3s82_4_B,3s82,3.30.300.10,NA,irregular (n/a),7,False,-
+Cluster 4,3u5m_27_C,3u5m,3.30.40.10;1.20.920.10,NA,,1,False,-
+Cluster 4,3vot_3_A,3vot,3.40.50.20;3.30.470.20,NA,irregular (n/a),4,False,-
+Cluster 4,4ecg_5_A,4ecg,1.20.1420.20,NA,pentagonal bipyramid (regular),7,False,-
+Cluster 4,4hap_5_A,4hap,2.70.100.10,NA,square pyramid with a vacancy (equatorial) (distorted),4,False,-
+Cluster 4,4jcl_4_A,4jcl,2.60.40.10;3.20.20.80;2.60.40.1180,NA,irregular (n/a),3,False,-
+Cluster 4,4ktp_1_B,4ktp,2.60.420.10;2.70.98.40;1.50.10.10,NA,pentagonal bipyramid with a vacancy (equatorial) (distorted),6,False,-
+Cluster 4,4mhv_1_A,4mhv,1.10.150.50,NA,square pyramid with a vacancy (equatorial) (distorted),4,False,-
+Cluster 4,4oy7_5_FH,4oy7,2.70.50.50,NA,octahedron (distorted),6,False,-
+Cluster 4,4xb3_3_A,4xb3,3.20.20.80;3.90.400.10;2.60.40.1180,NA,irregular (n/a),3,False,-
+Cluster 4,5jcw_2_B,5jcw,3.40.30.10;1.20.1050.10,NA,irregular (n/a),6,False,-
+Cluster 5,1g5c_4_B,1g5c,3.40.1050.10,c.53.2,pentagonal bipyramid with a vacancy (equatorial) (distorted),6,False,-
+Cluster 5,2ozb_2_E,2ozb,1.10.246.90,NA,irregular (n/a),5,False,-
+Cluster 5,1mjo_1_B,1mjo,1.10.140.10,NA,irregular (n/a),3,False,-
+Cluster 5,1t9h_6_A,1t9h,2.40.50.140;3.40.50.300;1.10.40.50,c.37.1;b.40.4,square plane with a vacancy (regular),3,False,-
+Cluster 5,2awy_3_AB,2awy,1.20.120.50,NA,square plane with a vacancy (regular),3,False,-
+Cluster 5,2b50_2_A,2b50,1.10.565.10,a.123.1,irregular (n/a),2,False,-
+Cluster 5,2h9d_1_CD,2h9d,1.20.59.10,a.130.1,square pyramid with a vacancy (equatorial) (distorted),4,False,-
+Cluster 5,2x49_3_A,2x49,3.40.50.12790;3.40.30.60;3.40.5.40;1.10.8.540,NA,,1,False,-
+Cluster 5,3b40_1_A,3b40,3.20.20.140;1.10.287.650,NA,irregular (n/a),4,False,-
+Cluster 5,3cq8_7_A,3cq8,1.20.1280.300,NA,trigonal plane with a vacancy (regular),2,False,-
+Cluster 5,3g0k_1_A,3g0k,3.10.450.50,NA,irregular (n/a),4,False,-
+Cluster 5,3qhq_2_B,3qhq,6.10.250.2340;3.40.50.11940,NA,pentagonal bipyramid with a vacancy (axial) (regular),6,False,-
+Cluster 5,3qta_2_A,3qta,3.40.1550.10,NA,square antiprism (distorted),8,False,-
+Cluster 5,4a15_2_A,4a15,3.40.50.300;1.10.30.20;1.10.275.40,NA,square pyramid with a vacancy (equatorial) (regular),4,False,-
+Cluster 5,4c2a_2_A,4c2a,3.40.50.410,NA,octahedron (distorted),6,False,-
+Cluster 5,4ex8_1_A,4ex8,3.40.1790.10,NA,trigonal plane with a vacancy (regular),2,False,-
+Cluster 5,4n17_2_A,4n17,3.40.190.170,NA,square pyramid with a vacancy (equatorial) (regular),4,False,-
+Cluster 5,4yl9_1_D,4yl9,2.60.40.790,NA,,1,False,-
+Cluster 5,5klb_2_ABD,5klb,1.20.120.350;1.10.287.70,NA,,1,False,-
+Cluster 6,1jn9_3_A,1jn9,3.60.20.30,d.153.1,pentagonal bipyramid with a vacancy (axial) (distorted),6,False,-
+Cluster 6,3mhr_3_A,3mhr,1.20.190.20,NA,irregular (n/a),2,False,-
+Cluster 6,1o5k_1_A,1o5k,3.20.20.70,c.1.10,irregular (n/a),5,False,-
+Cluster 6,1scf_2_C,1scf,1.20.1250.10,a.26.1,irregular (n/a),4,False,-
+Cluster 6,2hn2_1_AB,2hn2,1.20.58.340;3.30.460.20,d.328.1;f.17.3,,1,False,-
+Cluster 6,2j45_2_AB,2j45,1.20.120.140;3.40.50.300,c.37.1;a.24.13,irregular (n/a),4,False,-
+Cluster 6,2jcg_1_A,2jcg,3.40.50.2300;1.10.260.40,NA,irregular (n/a),2,False,-
+Cluster 6,2obl_1_A,2obl,1.20.1270.330;3.40.50.300,NA,irregular (n/a),4,False,-
+Cluster 6,2vyo_1_A,2vyo,3.20.20.370,NA,tetrahedron with a vacancy (distorted),3,False,-
+Cluster 6,3aua_2_B,3aua,1.10.1740.10;3.40.50.720,NA,irregular (n/a),5,False,-
+Cluster 6,3faw_2_A,3faw,3.20.20.80;2.60.40.1180;2.60.40.10;2.60.40.1220,NA,irregular (n/a),5,False,-
+Cluster 6,3hjb_11_D,3hjb,1.10.1390.10;3.40.50.10490,NA,pentagonal bipyramid with a vacancy (axial) (distorted),6,False,-
+Cluster 6,3o83_5_A,3o83,3.40.50.12780,NA,pentagonal bipyramid with a vacancy (equatorial) (distorted),6,False,-
+Cluster 6,3ohe_2_B,3ohe,3.30.428.10,NA,"trigonal prism, square-face bicapped (distorted)",8,False,-
+Cluster 6,3tb3_1_B,3tb3,3.40.532.10,NA,irregular (n/a),3,False,-
+Cluster 6,5i29_1_A,5i29,1.20.920.10,NA,octahedron (regular),6,False,-
+Cluster 6,5jix_4_A,5jix,2.60.120.10,NA,irregular (n/a),3,False,-
+Cluster 6,5l7p_1_A,5l7p,3.40.50.620;1.10.240.10,NA,irregular (n/a),5,False,-
+Cluster 6,5vkw_2_B,5vkw,1.20.200.10;6.10.250.1570;1.10.275.10,NA,pentagonal bipyramid with a vacancy (equatorial) (distorted),6,False,-
+Cluster 7,1q39_4_A,1q39,3.20.190.10;1.10.8.50,a.156.1;g.39.1;b.113.1,,1,False,-
+Cluster 7,2xco_1_A,2xco,1.10.268.10;3.30.1360.40;3.90.199.10;3.40.50.670,NA,,1,False,-
+Cluster 7,2bue_1_A,2bue,3.40.630.30,NA,irregular (n/a),4,False,-
+Cluster 7,2iim_1_A,2iim,2.30.30.40,b.34.2,square pyramid with a vacancy (equatorial) (distorted),4,False,-
+Cluster 7,2p5r_1_A,2p5r,3.40.30.10,NA,trigonal plane with a vacancy (regular),2,False,-
+Cluster 7,3hdb_1_A,3hdb,3.40.390.10,NA,,1,False,-
+Cluster 7,3ipr_3_F,3ipr,3.40.50.510,NA,,1,False,-
+Cluster 7,3ktb_1_D,3ktb,3.40.30.10,NA,irregular (n/a),2,False,-
+Cluster 7,3np5_1_D,3np5,3.30.70.2470,NA,irregular (n/a),2,False,-
+Cluster 7,3u4l_2_AP,3u4l,3.90.640.10;3.30.420.40,NA,linear (regular),2,False,-
+Cluster 7,3uf5_1_A,3uf5,1.20.1250.10,NA,irregular (n/a),2,False,-
+Cluster 7,3wl4_4_B,3wl4,3.40.50.10320,NA,irregular (n/a),5,False,-
+Cluster 7,4apb_1_A,4apb,1.20.200.10;1.10.40.30;1.10.275.10,NA,square pyramid with a vacancy (equatorial) (distorted),4,False,-
+Cluster 7,4dxw_1_A,4dxw,1.10.287.70;1.20.120.350,NA,,1,False,-
+Cluster 7,5gmf_2_D,5gmf,3.80.10.10,NA,,1,False,-
+Cluster 8,1w3b_1_A,1w3b,1.25.40.10,a.118.8,irregular (n/a),4,False,-
+Cluster 8,4lw9_48_Q,4lw9,3.30.700.10,NA,,1,False,-
+Cluster 8,2bh1_1_A,2bh1,3.30.420.370;3.30.420.380,c.55.1,,1,False,-
+Cluster 8,2wq5_1_A,2wq5,1.20.90.10,NA,irregular (n/a),3,False,-
+Cluster 8,3bvc_6_A,3bvc,2.60.120.620,NA,,1,False,-
+Cluster 8,3gri_6_A,3gri,2.30.40.10;3.20.20.140,NA,,1,False,-
+Cluster 8,3gv5_1_D,3gv5,3.30.1490.100;3.40.1170.60;3.30.70.270;1.10.150.20,NA,irregular (n/a),3,False,-
+Cluster 8,3lez_4_A,3lez,3.40.710.10,NA,pentagonal bipyramid (distorted),7,False,-
+Cluster 8,3r40_1_A,3r40,3.40.50.1820,NA,irregular (n/a),3,False,-
+Cluster 8,3tqk_2_A,3tqk,3.20.20.70,NA,irregular (n/a),3,False,-
+Cluster 8,3whn_1_A,3whn,1.20.120.50,NA,square pyramid (distorted),5,False,-
+Cluster 8,4hhr_5_A,4hhr,1.10.640.10,NA,irregular (n/a),3,False,-
+Cluster 8,4j3h_3_A,4j3h,1.20.5.170,NA,irregular (n/a),5,False,-
+Cluster 8,4uix_1_B,4uix,1.20.920.10,NA,"trigonal prism, square-face bicapped (distorted)",8,False,-
+Cluster 8,6oz7_2_H,6oz7,3.40.50.720,NA,pentagonal bipyramid with a vacancy (equatorial) (distorted),6,False,-
+Cluster 9,1y10_7_CD,1y10,3.30.70.1230,NA,,1,False,-
+Cluster 9,5ue1_3_A,5ue1,3.40.50.1580,NA,irregular (n/a),2,False,-
+Cluster 9,2b01_2_A,2b01,1.20.90.10,a.133.1,irregular (n/a),3,False,-
+Cluster 9,2buk_3_A,2buk,2.60.120.20,b.121.7,trigonal plane with a vacancy (regular),2,False,-
+Cluster 9,3a51_7_A,3a51,1.10.630.10,NA,pentagonal bipyramid with a vacancy (axial) (distorted),6,False,-
+Cluster 9,3jq1_8_B,3jq1,1.25.40.390,NA,square antiprism with a vacancy (distorted),7,False,-
+Cluster 9,3lez_6_A,3lez,3.40.710.10,NA,trigonal prism with a vacancy (regular),5,False,-
+Cluster 9,3mdo_4_B,3mdo,3.30.1330.10;3.90.650.10,NA,square pyramid with a vacancy (equatorial) (distorted),4,False,-
+Cluster 9,3mzo_4_A,3mzo,1.10.3210.10,NA,irregular (n/a),2,False,-
+Cluster 9,3upg_2_A,3upg,2.40.160.10,NA,trigonal plane with a vacancy (regular),2,False,-
+Cluster 9,4jbe_1_A,4jbe,3.40.309.10;3.40.605.10,NA,irregular (n/a),5,False,-
+Cluster 9,4r36_1_AB,4r36,2.160.10.10;1.20.1180.10,NA,square antiprism with a vacancy (distorted),7,False,-
+Cluster 9,5az1_1_A,5az1,3.20.20.100,NA,,1,False,-
+Cluster 9,5ts2_1_AD,5ts2,3.40.50.620,NA,trigonal plane with a vacancy (regular),2,False,-
+Cluster 9,5uxa_1_A,5uxa,3.30.200.20;3.90.1200.10,NA,irregular (n/a),4,False,-
+Cluster 9,6gsz_9_A,6gsz,2.60.120.260;2.60.40.10;2.60.420.10;1.50.10.10,NA,irregular (n/a),2,False,-
+Cluster 10,2c9m_3_A,2c9m,2.70.150.10;3.40.50.1000;3.40.1110.10;1.20.1110.10,NA,,1,False,-
+Cluster 10,5y8x_3_A,5y8x,1.10.246.130,NA,square pyramid with a vacancy (equatorial) (regular),4,False,-
+Cluster 10,2xts_12_AB,2xts,2.60.40.650;3.90.420.10,NA,irregular (n/a),5,False,-
+Cluster 10,2zal_4_AB,2zal,3.60.20.30,NA,square pyramid with a vacancy (equatorial) (distorted),4,False,-
+Cluster 10,3jq1_9_B,3jq1,1.25.40.390,NA,square pyramid with a vacancy (equatorial) (distorted),4,False,-
+Cluster 10,3lv4_2_A,3lv4,2.40.128.10;2.115.10.20,NA,"trigonal prism, square-face bicapped (distorted)",8,False,-
+Cluster 10,3o83_4_B,3o83,3.40.50.12780,NA,"trigonal prism, square-face monocapped (distorted)",7,False,-
+Cluster 10,4kn9_15_T,4kn9,4.10.480.10;3.40.50.700,NA,irregular (n/a),6,False,-
+Cluster 10,4mbo_2_A,4mbo,2.60.40.1280;2.60.40.1290,NA,"trigonal prism, square-face monocapped (distorted)",7,False,-
+Cluster 10,4q6b_3_A,4q6b,3.40.50.2300,NA,pentagonal bipyramid with a vacancy (axial) (distorted),6,False,-
+Cluster 10,5cyb_1_A,5cyb,2.40.128.50,NA,square pyramid with a vacancy (equatorial) (distorted),4,False,-
+Cluster 11,2j45_1_A,2j45,3.40.50.300;1.20.120.140,a.24.13;c.37.1,irregular (n/a),3,False,-
+Cluster 11,4m0k_3_D,4m0k,3.40.50.2020,NA,square pyramid (distorted),5,False,-
+Cluster 11,3iqt_1_A,3iqt,1.20.120.160,NA,square antiprism with a vacancy (distorted),7,False,-
+Cluster 11,4b5w_2_C,4b5w,3.20.20.60,NA,square plane with a vacancy (regular),3,False,-
+Cluster 11,4eqb_4_A,4eqb,3.40.190.10,NA,square pyramid with a vacancy (equatorial) (regular),4,False,-
+Cluster 11,4pih_3_B,4pih,NA,NA,irregular (n/a),3,False,-
+Cluster 11,5a8k_5_A,5a8k,3.30.70.470;3.90.390.10;1.20.840.10,NA,square antiprism with a vacancy (distorted),7,False,-
+Cluster 11,5bqt_1_BD,5bqt,3.30.870.10;1.10.10.10,NA,irregular (n/a),2,False,-
+Cluster 11,5nsf_1_A,5nsf,3.40.50.620;1.10.240.10,NA,irregular (n/a),3,False,-
+Cluster 11,6uff_12_D,6uff,3.20.20.70,NA,trigonal bipyramid with a vacancy (axial) (regular),4,False,-
