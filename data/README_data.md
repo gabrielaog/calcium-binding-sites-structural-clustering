@@ -1,7 +1,7 @@
 # Supplementary Data
 
 The large data files are not stored in this repository due to GitHub's size limits.
-They are available as assets in **[Release v1.0](https://github.com/gabrielaog/calcium-binding-site-structural-clustering/releases/tag/v1.0)** — download each file directly from there.
+They are available as assets in **[Release v1.0](https://github.com/gabrielaog/calcium-binding-sites-structural-clustering/releases/tag/v1.0)** — download each file directly from there.
 
 ## Files
 

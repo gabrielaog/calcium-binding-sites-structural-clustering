@@ -60,7 +60,7 @@ Main results are in `results/`:
 
 ## Supplementary Data
 
-Large files are available in [Release v1.0](https://github.com/gabrielaog/calcium-binding-site-structural-clustering/releases/tag/v1.0):
+Large files are available in [Release v1.0](https://github.com/gabrielaog/calcium-binding-sites-structural-clustering/releases/tag/v1.0):
 
 - `DistanceMatrix.csv` — pairwise distance matrix for 2,960 Stage-1 representatives
 - `representativeSites.zip` — PDB structures of the representative sites
